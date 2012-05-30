@@ -1,5 +1,5 @@
 === Twitter Tracker Avatar Cache ===
-Contributors: simonwheatley, codeforthepeople, sim0nd
+Contributors: simonwheatley, codeforthepeople, s1m0nd
 Tags: cache, avatar, twitter tracker
 Requires at least: 3.1.0
 Tested up to: 3.3.2
