@@ -4,7 +4,7 @@ Plugin Name: Twitter Tracker: Avatar Cache
 Plugin URI: http://simonwheatley.co.uk/wordpress/twitter-tracker-avatar-cache
 Description: Caches Twitter avatars used by the Twitter Tracker widgets to avoid using the Twitter API, which sets cookies.
 Author: Simon Wheatley
-Version: 2.5
+Version: 1.0
 Author URI: http://simonwheatley.co.uk/wordpress/
 */
 
