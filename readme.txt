@@ -9,7 +9,7 @@ Caches Twitter avatars used by the Twitter Tracker widgets to avoid using the Tw
 
 == Description ==
 
-Caches Twitter avatars used by the Twitter Tracker widgets to avoid using the Twitter API, which sets cookies. This is inline with new directives from the UK government to reduce unnecessary cookie usage, following European legislation on this subject.
+Caches Twitter avatars used by the [Twitter Tracker](http://wordpress.org/extend/plugins/twitter-tracker/) widgets to avoid using the Twitter API, which sets cookies. This is inline with new directives from the UK government to reduce unnecessary cookie usage, following European legislation on this subject.
 
 In order to maintain site performance, the plugin does not fetch and cache the images during the rendering of the page, instead it spins off a separate operation using the built-in WordPress cache. One slight disadvantage of this approach is that the first time a new Twitter avatar is encountered it can take around a minute for it to be available.
 
