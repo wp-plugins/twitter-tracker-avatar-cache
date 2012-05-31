@@ -13,7 +13,7 @@ Caches Twitter avatars used by the [Twitter Tracker](http://wordpress.org/extend
 
 In order to maintain site performance, the plugin does not fetch and cache the images during the rendering of the page, instead it spins off a separate operation using the built-in WordPress cache. One slight disadvantage of this approach is that the first time a new Twitter avatar is encountered it can take around a minute for it to be available.
 
-If you want to avoid the use of cookies, and don't need avatars in your widget (or are hiding the avatars with CSS) then you can use the [Twitter Tracker Avatar Cache](http://wordpress.org/extend/plugins/twitter-tracker-blank-avatars/) partner plugin.
+If you want to avoid the use of cookies, and don't need avatars in your widget (or are hiding the avatars with CSS) then you can use the [Twitter Tracker Blank Avatars](http://wordpress.org/extend/plugins/twitter-tracker-blank-avatars/) partner plugin.
 
 == Filters and actions ==
 
